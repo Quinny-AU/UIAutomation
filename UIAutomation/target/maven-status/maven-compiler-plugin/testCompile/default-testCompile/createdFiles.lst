@@ -1,0 +1,10 @@
+PageObjects\megaMenu.class
+CucumberOptions\TestRunnerShopping.class
+PageObjects\Homepage.class
+StepDefinitions\stepDefinitions.class
+CucumberOptions\TestRunnerLogin.class
+PageObjects\shopDressBrowse.class
+PageObjects\accountDetails.class
+PageObjects\Cart.class
+PageObjects\accountAccess.class
+PageObjects\productPage.class
